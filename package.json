@@ -1,5 +1,5 @@
 {
-  "name": "module-template",
+  "name": "odin-testing-practice",
   "version": "1.0.0",
   "description": "",
   "homepage": "https://github.com/AndrewHeckman/module-template#readme",
@@ -12,7 +12,7 @@
   },
   "license": "ISC",
   "author": "",
-  "type": "module",
+  "type": "commonjs",
   "main": "main.js",
   "scripts": {
     "test": "jest"
